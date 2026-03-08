@@ -17,3 +17,25 @@ h1 {
 .controls {
     margin-top: 25px;
 }
+/* ===== GENERAL BUTTON STYLE ===== */
+button {
+    margin: 10px;
+    padding: 14px 22px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+
+    /* Rounded, toy-like appearance */
+    border-radius: 25px;
+    border: none;
+
+    /* Button colors */
+    background-color: #ffffff;
+    color: #333;
+
+    /* Soft shadow for depth */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+    /* Smooth hover animation */
+    transition: transform 0.2s, box-shadow 0.2s;
+}
