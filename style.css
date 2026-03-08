@@ -1,0 +1,8 @@
+/* ===== PAGE BACKGROUND ===== */
+body {
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    background: linear-gradient(135deg, #d9fc8a, #fd5356);
+    margin: 0;
+    padding: 0;
+}
