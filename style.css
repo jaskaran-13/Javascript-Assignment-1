@@ -44,3 +44,10 @@ button:hover {
     transform: translateY(-3px);
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
 }
+/* ===== STORY PART BUTTON COLORS ===== */
+/* Each section gets a different playful color */
+#part1 { background-color: #f6acac; }
+#part2 { background-color: #f2cc9e; }
+#part3 { background-color: #f1f4ab; }
+#part4 { background-color: #b5e7ab; }
+#part5 { background-color: #8adbe3; }
