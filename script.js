@@ -37,3 +37,7 @@ document.getElementById("part5").addEventListener("click", () => {
     document.getElementById("part5").textContent = selected[4];
     i5 = (i5 + 1) % when.length;
 });
+// step 5 : display the  full story
+document.getElementById("showStory").addEventListener("click", () => {
+    document.getElementById("storyOutput").textContent =
+        selected.join(" ") + ".";
