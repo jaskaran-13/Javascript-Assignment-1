@@ -51,3 +51,18 @@ button:hover {
 #part3 { background-color: #f1f4ab; }
 #part4 { background-color: #b5e7ab; }
 #part5 { background-color: #8adbe3; }
+/* ===== CONTROL BUTTON COLORS ===== */
+#showStory {
+    background-color: #6046e3;
+    color: #f8f3f3;
+}
+
+#randomStory {
+    background-color: #f570a3;
+    color: #fff;
+}
+
+#reset {
+    background-color: #444;
+    color: #fff;
+}
